@@ -34,7 +34,7 @@ Ensure that you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shaikatahmed78/taskmate-server.git
+   git clone https://github.com/WalidurTanjim/task-hive-server.git
    cd taskmate-server
    ```
 
@@ -148,7 +148,7 @@ All API routes are designed with structured error messages to provide clarity:
 
 ## 📞 Support
 
-For issues or support, please contact [Support](mailto:shaikatahmed78@gmail.com).
+For issues or support, please contact [Support](walidurtanjim@gmail.com).
 
 
 ---
