@@ -153,6 +153,6 @@ For issues or support, please contact [Support](walidurtanjim@gmail.com).
 
 ---
 
-Thank you for using **TaskMate Server**! 🎉
+Thank you for using **Task Hive Server**! 🎉
 
-## 👨‍💻 Made ❤️ by [Saikat Ahmed]
+## 👨‍💻 Made ❤️ by [Walidur Tanjim]
