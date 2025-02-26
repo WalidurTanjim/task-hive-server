@@ -1,4 +1,4 @@
-# TaskMate Server
+# Task Hive Server
 
 TaskMate Server is the backend service for the TaskMate application, providing user account management, task CRUD operations, and real-time updates through Socket.IO. This project is built with **Node.js**, **Express.js**, **MongoDB**, and **Socket.IO**.
 
